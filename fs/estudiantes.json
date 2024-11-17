@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Marta",
+    "edad": 21,
+    "carrera": "medicina"
+  },
+  {
+    "nombre": "Angel",
+    "edad": 18,
+    "carrera": "arquitectura"
+  },
+  {
+    "nombre": "Pepe",
+    "edad": 19,
+    "carrera": "psicologia"
+  }
+]
